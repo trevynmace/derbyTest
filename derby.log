@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 15 11:53:54 MDT 2015:
+Booting Derby (version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546)) instance a816c00e-014c-be37-3c48-00000eb21030 
+on database directory jar:(/Users/tmace/Documents/workspace/Testing/src/TestDerby.jar)TestDerby in READ ONLY mode with class loader sun.misc.Launcher$AppClassLoader@5cfab5b1. 
+Loaded from file:/Users/tmace/Documents/workspace/Testing/src/derby.jar.
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_51-b13
+user.dir=/Users/tmace/Documents/workspace/Testing
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.10.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
